@@ -1,0 +1,26 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "A simple discord bot for a single discord server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Worldedit05/discordbot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "Aaron Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Worldedit05/discordbot/issues"
+  },
+  "homepage": "https://github.com/Worldedit05/discordbot#readme",
+  "dependencies": {
+    "discord.js": "^11.0.0"
+  }
+}
